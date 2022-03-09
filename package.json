@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/B-clone/Bclone-Admin/issues"
   },
-  "homepage": "https://github.com/B-clone/Bclone-Admin#readme"
+  "homepage": "https://github.com/B-clone/Bclone-Admin#readme",
+  "dependencies": {
+    "latest-version": "^6.0.0"
+  }
 }
